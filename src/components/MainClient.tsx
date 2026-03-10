@@ -5,7 +5,7 @@ import { Question, addQuestion, voteQuestion } from '@/app/actions';
 import { Star, LogOut, Send, ThumbsUp } from 'lucide-react';
 
 const USERS = [
-  "Louis", "Charlotte", "Fanny", "Jerome", "Isabelle", 
+  "Louis", "Charlotte", "Fanny", "Jerôme", "Isabelle", 
   "Nicolas", "Pierre", "Catherine", "Benjamin", "Marie"
 ];
 
